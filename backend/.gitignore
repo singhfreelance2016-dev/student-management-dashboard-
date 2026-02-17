@@ -1,0 +1,49 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Dependency directories
+jspm_packages/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Output files
+dist/
+build/
+
+# MacOS system files
+.DS_Store
+
+# Railway deployment files
+.railway/
+
+# [¥¥¥¥¥¥¥¥Node Modules Reference¥¥¥¥¥¥¥¥] - https://www.npmjs.com/
+# [¥¥¥¥¥¥¥¥Railway CLI¥¥¥¥¥¥¥¥] - https://railway.app/
